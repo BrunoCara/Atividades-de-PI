@@ -9,6 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    border: 10px black dotted;
 }
 
 .div2{
