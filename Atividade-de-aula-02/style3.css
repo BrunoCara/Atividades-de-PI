@@ -1,0 +1,32 @@
+body {
+    background-color: #a8a7a7;
+    }
+
+.div1{
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div2{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.div3{
+    background-color: rgb(206, 110, 0);
+    height: 100px;
+    width: 30%;
+}
+
+.div4 {
+    background-color: rgb(27, 214, 27);
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
